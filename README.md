@@ -15,6 +15,11 @@ The primary objective of this project is to analyze ecommerce sales data and ext
 - [x] Category-wise Sales Percentage: Percentage distribution of sales across product categories.
 - [x] Sales by State: Geographic distribution of sales by state or region.
 
+# Filters:
+- [x] Year: Allows filtering data by year to analyze sales performance over different time periods.
+- [x] Segment: Allows filtering data by customer segment to understand sales patterns among different customer groups.
+- [x] Region: Allows filtering data by region to analyze sales performance across different geographic areas.
+
 # Tools Used:
 - [x] Power BI: For creating interactive dashboards, visualizations, and measures.
 - [x] GitHub: For version control and collaboration.
